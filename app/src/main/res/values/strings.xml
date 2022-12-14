@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListeCapteur</string>
+    <string name="app_para_accueil"> Bienvenu sur cette application, vous avez à disposition
+    un menu où vous verrez la liste des capteurs de votre téléphone et une bulle à niveau.</string>
+</resources>
